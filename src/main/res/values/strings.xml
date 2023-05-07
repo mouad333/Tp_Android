@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tp_Android</string>
+    <string name="welcome">Welcome To IPD</string>
+    <string name="login">Log In</string>
+    <string name="Displayed_info">Displayed Informations</string>
+    <string name="Return">Return</string>
+</resources>

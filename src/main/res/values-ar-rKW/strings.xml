@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tp_android</string>
+    <string name="welcome">مرحبا TO IPD</string>
+    <string name="login">دخول</string>
+    <string name="Displayed_info">معلومات شخصية</string>
+    <string name="Return">رجوع</string>
+</resources>
